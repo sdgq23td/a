@@ -1,5 +1,5 @@
 {
   "version": "1.0.32",
-  "download_url": "https://raw.githubusercontent.com/sdgq23td/a/refs/heads/main/tcp-proxy-client-arm64.exe",
-  "sha256": "63ec39323a6aaedd45ecd5e64c5ab61b7a67bc41598895e2c05a113bc2e76ec8"
+  "download_url": "http://212.227.246.117:8080/HTTP_DOSYALARI/tcp-proxy-client-arm64.exe",
+  "sha256": "fef3405ca9c2202f85579988680ce81c2f0b6fa67b429a2e0efa30379cd24faf"
 }

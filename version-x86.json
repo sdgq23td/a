@@ -1,5 +1,5 @@
 {
   "version": "1.0.32",
-  "download_url": "https://raw.githubusercontent.com/sdgq23td/a/refs/heads/main/tcp-proxy-client-x86.exe",
-  "sha256": "642ddc2687ae73c26d09714384ceb0faa8cc80fad26bf75d9dc0b7a9f4d9edf1"
+  "download_url": "http://212.227.246.117:8080/HTTP_DOSYALARI/tcp-proxy-client-x86.exe",
+  "sha256": "9eaf5265469dd04c7d43b319b0654676feff9692fbc896b0b5891b8393b788e6"
 }
